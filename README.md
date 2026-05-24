@@ -33,13 +33,13 @@ HTML,CSS
 - UI/Design: /images/uls-ui1.png, /images/uls-ui2.png
 
 *Screenshots:*
-![University Lending System UI 1](<img width="1920" height="1080" alt="Screenshot 2026-05-24 180620" src="https://github.com/user-attachments/assets/38f8d995-2b55-4c8c-92e8-08fcd1b5fb7e" />
+![University Lending System UI 1](<img width="1920" height="1080" alt="Screenshot 2026-05-24 193558" src="https://github.com/user-attachments/assets/15601c78-3266-4321-8528-d41f76dd0f10" />
 )
-![University Lending System UI 2](<img width="1920" height="1080" alt="Screenshot 2026-05-24 180640" src="https://github.com/user-attachments/assets/2e2c4f91-b72f-46a8-ad0f-7461bc500495" />
+![University Lending System UI 2](<img width="1920" height="1080" alt="Screenshot 2026-05-24 193622" src="https://github.com/user-attachments/assets/ca19b6e4-5421-48ba-963e-855a06d6ff41" />
 )
 
 ----
-### 3. 📊 Student Grade Management System (Software Application)
+### 2. 📊 Student Grade Management System (Software Application)
 *Description:*  
 A desktop application for instructors to record, calculate, and manage student grades. Automatically computes averages, generates reports, and stores data securely.
 
